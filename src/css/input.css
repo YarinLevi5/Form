@@ -1,0 +1,10 @@
+.input {
+  width: 150px;
+  padding: 5px;
+  border-radius: 6%;
+  margin: 10px;
+}
+label {
+  color: rebeccapurple;
+  font-weight: bold;
+}
